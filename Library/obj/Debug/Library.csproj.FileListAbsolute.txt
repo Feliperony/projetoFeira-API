@@ -1,0 +1,6 @@
+D:\Rony\DS-VisualStudio\ProjetoFeira\Library\bin\Debug\Library.dll
+D:\Rony\DS-VisualStudio\ProjetoFeira\Library\bin\Debug\Library.pdb
+D:\Rony\DS-VisualStudio\ProjetoFeira\Library\obj\Debug\Library.csprojAssemblyReference.cache
+D:\Rony\DS-VisualStudio\ProjetoFeira\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+D:\Rony\DS-VisualStudio\ProjetoFeira\Library\obj\Debug\Library.dll
+D:\Rony\DS-VisualStudio\ProjetoFeira\Library\obj\Debug\Library.pdb

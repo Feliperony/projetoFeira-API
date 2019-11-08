@@ -1,0 +1,5 @@
+D:\Rony\DS-VisualStudio\ProjetoFeira\Library\bin\Release\Library.dll
+D:\Rony\DS-VisualStudio\ProjetoFeira\Library\bin\Release\Library.pdb
+D:\Rony\DS-VisualStudio\ProjetoFeira\Library\obj\Release\Library.csproj.CoreCompileInputs.cache
+D:\Rony\DS-VisualStudio\ProjetoFeira\Library\obj\Release\Library.dll
+D:\Rony\DS-VisualStudio\ProjetoFeira\Library\obj\Release\Library.pdb
